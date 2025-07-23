@@ -44,10 +44,10 @@ If you experience or witness misconduct, reach out directly to a project maintai
 ⚠️ Possible Consequences
 
 Based on the nature and severity and intent of the violation, actions may include:
-🟡 Give a friendly reminder of the rules
-🟠 Issue a formal warning
-🔴 Temporarily suspend the user from community platforms
-⚫ Ban the individual from contributing or participating in future events
+- 🟡 Give a friendly reminder of the rules
+- 🟠 Issue a formal warning
+- 🔴 Temporarily suspend the user from community platforms
+- ⚫ Ban the individual from contributing or participating in future events
 
 We hope never to need these — but the safety and health of our community come first.
 
@@ -55,12 +55,12 @@ We hope never to need these — but the safety and health of our community come 
 👾 Contributor Expectations
 
 When writing code, reviewing PRs, or chatting in the community:
-✅ Use respectful and inclusive language in comments, commits, and communication
-✅ Give constructive, actionable feedback
-✅ Keep your code clean, well-documented, and original
-✅ Avoid memes or jokes that could be misunderstood or offensive
-✅ Don’t take feedback personally — we all make mistakes and improve
-✅ Help others whenever you can — even a simple “nice job!” goes a long way
+- Use respectful and inclusive language in comments, commits, and communication
+- Give constructive, actionable feedback
+- Keep your code clean, well-documented, and original
+- Avoid memes or jokes that could be misunderstood or offensive
+- Don’t take feedback personally — we all make mistakes and improve
+- Help others whenever you can — even a simple “nice job!” goes a long way
 
 
 📜 Attribution & Thanks  
