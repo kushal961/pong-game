@@ -9,32 +9,32 @@ We’re committed to creating an environment where everyone — from complete be
 🌟 Our Core Values:
 
 In our pong-powered universe, we play by the following values:
-🧠 Learn Openly: No question is too small, no contributor too new. We’re here to grow together.
-🎮 Play Fair: Collaboration beats competition. Feedback should be kind, constructive, and focused on improvement.
-🎉 Celebrate Contributions: From fixing typos to adding multiplayer support — every contribution matters.
-🌍 Embrace Diversity: Different backgrounds, skill levels, and perspectives make our project better and stronger.
-🧩 Work Together: Success is a team sport. Share knowledge, uplift others, and focus on solutions.
+- 🧠 Learn Openly: No question is too small, no contributor too new. We’re here to grow together.
+- 🎮 Play Fair: Collaboration beats competition. Feedback should be kind, constructive, and focused on improvement.
+- 🎉 Celebrate Contributions: From fixing typos to adding multiplayer support — every contribution matters.
+- 🌍 Embrace Diversity: Different backgrounds, skill levels, and perspectives make our project better and stronger.
+- 🧩 Work Together: Success is a team sport. Share knowledge, uplift others, and focus on solutions.
 
 
 🛑 What We Don’t Tolerate
 
 To protect our community and ensure a welcoming experience for all, we do not tolerate:
-🚫 Disrespectful language or personal attacks
-🚫 Harassment, discrimination, or hate speech
-🚫 Gatekeeping or discouraging beginners
-🚫 Unwanted private messages or contact outside official channels
-🚫 Spam, off-topic promotion, or irrelevant content
-🚫 Toxic competitiveness or putting down others’ work
-🚫 Plagiarized code or cheating tools
+- 🚫 Disrespectful language or personal attacks
+- 🚫 Harassment, discrimination, or hate speech
+- 🚫 Gatekeeping or discouraging beginners
+- 🚫 Unwanted private messages or contact outside official channels
+- 🚫 Spam, off-topic promotion, or irrelevant content
+- 🚫 Toxic competitiveness or putting down others’ work
+- 🚫 Plagiarized code or cheating tools
 
 Let’s keep the vibe positive and the game fun — for everyone!
 
 
 🌐 Scope of This Code:
-This Code of Conduct applies to all community spaces, including:
-GitHub repositories (issues, pull requests, comments)
-Community discussions (Discord, Slack, forums, etc.)
-Any event or interaction under the Pong Game banner
+- This Code of Conduct applies to all community spaces, including:
+- GitHub repositories (issues, pull requests, comments)
+- Community discussions (Discord, Slack, forums, etc.)
+- Any event or interaction under the Pong Game banner
 
 
 🧭 Reporting Issues
